@@ -1,2 +1,3 @@
 # Hello_world
-Playing with github
+## This is a practice repo for me to play and learn git
+'Playing with github'
